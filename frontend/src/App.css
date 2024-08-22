@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #666;
+  margin-top: 20px;
+}
+
+.chart-container {
+  margin: 20px auto;
+  max-width: 800px;
+}

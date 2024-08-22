@@ -1,0 +1,76 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color:olive;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .chart-container {
+    margin: 20px auto;
+    max-width: 800px;
+  }
+.container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: navajowhite;
+}
+
+h3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+button.active {
+  background-color: #0056b3;
+}
+
+
+.chart-container {
+  margin-top: 20px;
+}
+
+
+.chart-container canvas {
+  max-width: 100%;
+}
+
+  
